@@ -1,4 +1,4 @@
-// include the .js     <script src="where_are_my_glasses/where_are_my_glasses.js"></script>
+//include the .js      <script src="where_are_my_glasses.js"></script>
 //then to run:         <body onload="where_are_my_glasses()"> or trigger this any other way
 
 //it is not advised to browse the web without your glasses because it will negatively impact user experience
