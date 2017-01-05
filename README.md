@@ -8,6 +8,6 @@ Notice: it is not advised to browse the web without your glasses. It may impact 
 Implementation:
 
 ```javascript
-// include the .js     <script src="where_are_my_glasses/where_are_my_glasses.js"></script>
+// include the .js     <script src="where_are_my_glasses.js"></script>
 //then to run:         <body onload="where_are_my_glasses()"> or trigger this any other way
 ```
